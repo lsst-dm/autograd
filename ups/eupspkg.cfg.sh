@@ -1,0 +1,4 @@
+prep()
+{
+    tar -xf upstream/*
+}
